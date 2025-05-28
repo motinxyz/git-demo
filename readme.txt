@@ -1,1 +1,1 @@
-Wir leben Git! Git ist sehr schon!
+Wir lieben Git! Git ist sehr schon!
